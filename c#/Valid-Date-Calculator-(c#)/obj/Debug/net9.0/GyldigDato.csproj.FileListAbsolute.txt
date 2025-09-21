@@ -1,0 +1,14 @@
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\bin\Debug\net9.0\GyldigDato.exe
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\bin\Debug\net9.0\GyldigDato.deps.json
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\bin\Debug\net9.0\GyldigDato.runtimeconfig.json
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\bin\Debug\net9.0\GyldigDato.dll
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\bin\Debug\net9.0\GyldigDato.pdb
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\obj\Debug\net9.0\GyldigDato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\obj\Debug\net9.0\GyldigDato.AssemblyInfoInputs.cache
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\obj\Debug\net9.0\GyldigDato.AssemblyInfo.cs
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\obj\Debug\net9.0\GyldigDato.csproj.CoreCompileInputs.cache
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\obj\Debug\net9.0\GyldigDato.dll
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\obj\Debug\net9.0\refint\GyldigDato.dll
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\obj\Debug\net9.0\GyldigDato.pdb
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\obj\Debug\net9.0\GyldigDato.genruntimeconfig.cache
+C:\Users\nickd\Desktop\Skole opgaver\GyldigDato\obj\Debug\net9.0\ref\GyldigDato.dll

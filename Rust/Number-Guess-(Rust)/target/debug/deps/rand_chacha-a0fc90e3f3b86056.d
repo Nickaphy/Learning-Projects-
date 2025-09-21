@@ -1,0 +1,9 @@
+/home/nicklas/Projects/Personal/SchoolRewrites/NumberGuess/target/debug/deps/rand_chacha-a0fc90e3f3b86056.d: /home/nicklas/.var/app/com.jetbrains.RustRover/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0/src/lib.rs /home/nicklas/.var/app/com.jetbrains.RustRover/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0/src/chacha.rs /home/nicklas/.var/app/com.jetbrains.RustRover/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0/src/guts.rs
+
+/home/nicklas/Projects/Personal/SchoolRewrites/NumberGuess/target/debug/deps/librand_chacha-a0fc90e3f3b86056.rlib: /home/nicklas/.var/app/com.jetbrains.RustRover/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0/src/lib.rs /home/nicklas/.var/app/com.jetbrains.RustRover/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0/src/chacha.rs /home/nicklas/.var/app/com.jetbrains.RustRover/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0/src/guts.rs
+
+/home/nicklas/Projects/Personal/SchoolRewrites/NumberGuess/target/debug/deps/librand_chacha-a0fc90e3f3b86056.rmeta: /home/nicklas/.var/app/com.jetbrains.RustRover/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0/src/lib.rs /home/nicklas/.var/app/com.jetbrains.RustRover/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0/src/chacha.rs /home/nicklas/.var/app/com.jetbrains.RustRover/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0/src/guts.rs
+
+/home/nicklas/.var/app/com.jetbrains.RustRover/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0/src/lib.rs:
+/home/nicklas/.var/app/com.jetbrains.RustRover/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0/src/chacha.rs:
+/home/nicklas/.var/app/com.jetbrains.RustRover/data/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.9.0/src/guts.rs:

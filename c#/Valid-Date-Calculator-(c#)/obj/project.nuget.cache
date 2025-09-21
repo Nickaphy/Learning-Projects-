@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xpey8k9Zki4=",
+  "success": true,
+  "projectFilePath": "/home/nicklas/Projects/School/GyldigDatoUdregner/GyldigDato.csproj",
+  "expectedPackageFiles": [
+    "/home/nicklas/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/nicklas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/home/nicklas/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.20/microsoft.netcore.app.host.linux-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
